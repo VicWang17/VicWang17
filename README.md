@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning Java and web developing
 
-- 👯 Once worked as an intern in an artificial intelligence company in Hangzhou
+- 👯 Once worked as an intern in an AI company in Hangzhou
 
 - 🤔 I’m looking for help with how to study Go?
 
