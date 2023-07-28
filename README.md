@@ -1,9 +1,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=VicWang17&show_icons=true">
+
 ### Hi there 👋
+
 - 🔭 Now study in Hong Kong
+
 - 🌱 Currently learning Java and web developing
+
 - 👯 Once worked as an intern in an artificial intelligence company in Hangzhou
+
 - 🤔 I’m looking for help with how to study Go?
+
 - 💬 My personal blog: Vicwang17.com
 
 
