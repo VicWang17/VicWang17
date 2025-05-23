@@ -34,7 +34,7 @@
 
 Daily drive Arch Linux with customized:
 
-• i3wm/rice configurations
+• Hyprland configurations
 
 • Neovim workflow
 
