@@ -5,6 +5,7 @@
 📚 Full-stack Developer | 🐧 Linux Enthusiast | 🤖 Tech Explorer
 
 💻 Tech Stack
+
 • Frontend: React | Vue | TypeScript
 
 • Backend: Python | Java/Spring | C++ | Go
@@ -22,6 +23,7 @@
 
 
 🌱 History
+
 • 2× Intern @ Hangzhou Tech Companies (Full-stack&Ai roles)
 
 • Created 5+ web projects with React/Vue + Spring/Go
@@ -29,6 +31,7 @@
 • Built data pipelines for web scraping/analysis (Python)
 
 🛠️ Linux Love
+
 Daily drive Arch Linux with customized:
 
 • i3wm/rice configurations
