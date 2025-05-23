@@ -1,16 +1,33 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=VicWang17&show_icons=true">
 
-### Hi there 👋
+👋 Hi there! I'm a CS student @ Hong Kong Polytechnic University
 
-- 🔭 Now study in Hong Kong
+📚 Full-stack Developer | 🐧 Linux Enthusiast | 🤖 Tech Explorer
 
-- 🌱 Currently learning Java and web developing
+💻 Tech Stack
+• Frontend: React | Vue | TypeScript
+• Backend: Python | Java/Spring | C++ | Go
+• Specialties: Web Development | Web Scraping | RAG Systems | Data Analysis
+• DevOps: Docker | CI/CD | Linux Customization
 
-- 👯 Once worked as an intern in an AI company in Hangzhou
+🔭 Currently
+• Building smart RAG applications & LLM prototypes
+• Customizing Linux environments
+• Exploring Go
 
-- 🤔 I’m looking for help with how to study Go?
+🌱 History
+• 2× Intern @ Hangzhou Tech Companies (Full-stack&Ai roles)
+• Created 5+ web projects with React/Vue + Spring/Go
+• Built data pipelines for web scraping/analysis (Python)
 
-- 💬 My personal blog: Vicwang17.com
+🛠️ Linux Love
+Daily drive Arch Linux with customized:
+• i3wm/rice configurations
+• Neovim workflow
+• Self-maintained dotfiles (GitHub repo)
+
+📫 Let's Connect!
+
 
 
 <!--
