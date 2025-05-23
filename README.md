@@ -6,14 +6,18 @@
 
 💻 Tech Stack
 • Frontend: React | Vue | TypeScript
+
 • Backend: Python | Java/Spring | C++ | Go
+
 • Specialties: Web Development | Web Scraping | RAG Systems | Data Analysis
+
 • DevOps: Docker | CI/CD | Linux Customization
 
 🔭 Currently
 • Building smart RAG applications & LLM prototypes
 • Customizing Linux environments
 • Exploring Go
+
 
 🌱 History
 • 2× Intern @ Hangzhou Tech Companies (Full-stack&Ai roles)
