@@ -15,22 +15,28 @@
 
 🔭 Currently
 • Building smart RAG applications & LLM prototypes
+
 • Customizing Linux environments
+
 • Exploring Go
 
 
 🌱 History
 • 2× Intern @ Hangzhou Tech Companies (Full-stack&Ai roles)
+
 • Created 5+ web projects with React/Vue + Spring/Go
+
 • Built data pipelines for web scraping/analysis (Python)
 
 🛠️ Linux Love
 Daily drive Arch Linux with customized:
+
 • i3wm/rice configurations
+
 • Neovim workflow
+
 • Self-maintained dotfiles (GitHub repo)
 
-📫 Let's Connect!
 
 
 
