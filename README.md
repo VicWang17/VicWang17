@@ -1,8 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=VicWang17&show_icons=true">
 
-```md
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicWang17&layout=compact)
-```
+
 
 👋 Hi there! I'm a CS student @ Hong Kong Polytechnic University
 
@@ -16,10 +15,10 @@
 
 • Specialties: Web Development | Web Scraping | RAG Systems | Data Analysis
 
-• DevOps: Docker | CI/CD | Linux Customization
+
 
 🔭 Currently
-• Building smart RAG applications & LLM prototypes
+• Building smart RAG applications & evaluation
 
 • Customizing Linux environments
 
@@ -30,19 +29,7 @@
 
 • 2× Intern @ Hangzhou Tech Companies (Full-stack&Ai roles)
 
-• Created 5+ web projects with React/Vue + Spring/Go
-
-• Built data pipelines for web scraping/analysis (Python)
-
-🛠️ Linux Love
-
-Daily drive Arch Linux with customized:
-
-• Hyprland configurations
-
-• Neovim workflow
-
-• Self-maintained dotfiles (GitHub repo)
+• Created 5+ web projects with React/Vue + Spring/Python
 
 
 
