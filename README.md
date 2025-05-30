@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicWang17&layout=compact)
 
 
-👋 Hi there! I'm a CS student @ Hong Kong Polytechnic University
+👋 CS student @ Hong Kong Polytechnic University
 
 📚 Full-stack Developer | 🐧 Linux Enthusiast | 🤖 Tech Explorer
 
